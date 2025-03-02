@@ -29,12 +29,15 @@ https://github.com/vedanshjainvj/Job-Hive/pulls?q=is%3Apr+is%3Aclosed+assignee%3
 
 Here are the pull requests that I contributed to in the **SCD-Profile-Score**:
 https://github.com/Ojas-Arora/SCD-Profile-Score/pulls?q=is%3Apr+is%3Aclosed+assignee%3Ayashpandav Total 2 PRs
+<br/>
 https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/111
+<br/>
 https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/98
+<br/>
 https://github.com/Navneet1206/Ether-Chess-OTC/pull/40
+<br/>
 https://github.com/Navneet1206/Ether-Chess-OTC/pull/16
-
-
+<br/>
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/yashpandav)
